@@ -4,7 +4,7 @@
 A machine learning web application that predicts passenger survival
 on the Titanic using a trained neural network model.
 
-Author: Temmy
+Author: Aderewa
 Date: January 2026
 Model: Neural Network (Keras)
 """
@@ -447,4 +447,5 @@ with st.sidebar:
     - [Titanic Dataset](https://www.kaggle.com/c/titanic)
     - [Model Documentation](#)
     - [GitHub Repository](#)
+
     """)
